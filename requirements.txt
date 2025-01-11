@@ -1,0 +1,18 @@
+# This is the list of requirements needed in order to run the Python Code "My_own_lucky_dip_euromillions.py"
+
+Pyhton version used == 3.12.4
+#Any Python 3.+ should work
+
+#Python modules needed:
+
+random (built in)
+itertools (built in)
+numpy == 2.1.0
+
+#IDE used:
+
+Microsoft Visual Studio Code == 1.92.0
+
+#OS:
+
+Microsoft Windows 10
