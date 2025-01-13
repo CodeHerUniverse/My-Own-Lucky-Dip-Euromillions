@@ -90,9 +90,6 @@ Ok to use.
 - **Advanced Filters:** Incorporate additional statistical analyses (e.g., frequency analysis of pairs or triplets).
 - **Web Interface:** Develop a web-based version of the tool for broader accessibility.
 
-## License
-This project is open-source and available under the MIT License.
-
 ## Contact
 For questions or feedback, feel free to contact me:
 
